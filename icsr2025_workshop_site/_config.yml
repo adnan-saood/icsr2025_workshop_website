@@ -23,7 +23,7 @@ email: touch.workshop.icsr@gmail.com
 description: >-
   Held as part of ICSR 2025 in Naples, Italy, this workshop brings together experts to explore the role of touch in social robotics.
 # baseurl: "/~saood"
-baseurl: "/~saood/external/icsr2025_workshop"
+baseurl: "/~saood/external/touch-workshop"
 url: "https://perso.ensta-paris.fr"
 
 theme: minima

@@ -1,4 +1,4 @@
-# Jekyll Docker Dev Environment - Saood's Personal Website
+# Jekyll Docker Dev Environment
 
 ## 🚀 How to Use
 
